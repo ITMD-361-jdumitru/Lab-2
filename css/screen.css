@@ -24,13 +24,16 @@
     font-family: Roboto;
   }
 /*For the spacing in between the form*/
-  #birthday {
+  #date {
     padding-bottom: 15%;
   }
   #email {
     padding-bottom: 15%;
   }
   #phone {
+    padding-bottom: 15%;
+  }
+  #code {
     padding-bottom: 15%;
   }
   #submit_button{
@@ -82,13 +85,16 @@
 
   }
 /*For the spacing in between the form*/
-  #birthday {
+  #date {
     padding-bottom: 15%;
   }
   #email {
     padding-bottom: 15%;
   }
   #phone {
+    padding-bottom: 15%;
+  }
+  #code {
     padding-bottom: 15%;
   }
   #submit_button{

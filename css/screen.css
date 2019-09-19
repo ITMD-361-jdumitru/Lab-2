@@ -9,9 +9,9 @@
   }
   body {
     text-align: center;
-    color: #003366;
-    background-color: #8394A1;
-    font-family: Roboto;
+    color: #B2BEC3;
+    background-color: #2D3436;
+    font-family: Illuminatti;
   }
   input {
     width: 350px;
@@ -21,7 +21,7 @@
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-    font-family: Roboto;
+    font-family: Illuminatti;
   }
 /*For the spacing in between the form*/
   #date {
@@ -67,9 +67,9 @@
 
   body{
     text-align: center;
-    color: #003366;
-    background-color: #8394A1;
-    font-family: Roboto;
+    color: #B2BEC3;
+    background-color: #2D3436;
+    font-family: Illuminatti;
   }
 
   input{
